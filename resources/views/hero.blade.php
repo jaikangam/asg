@@ -16,22 +16,10 @@
     <div class="col px-0">
       <div class="row align-items-center justify-content-center">
         <div class="col-lg-6 text-center">
-          <img alt="image" src="./frontend/img/brand/white.png" style="width: 200px;" class="img-fluid">
+
           <p class="lead text-white">A beautiful Design System for Bootstrap 4. It's Free and Open Source.</p>
-          <div class="btn-wrapper mt-5">
-            <a href="https://www.creative-tim.com/product/argon-design-system" class="btn btn-lg btn-white btn-icon mb-3 mb-sm-0">
-              <span class="btn-inner--icon"><i class="ni ni-cloud-download-95"></i></span>
-              <span class="btn-inner--text">Download HTML</span>
-            </a>
-            <a href="https://github.com/creativetimofficial/argon-design-system" class="btn btn-lg btn-github btn-icon mb-3 mb-sm-0" target="_blank">
-              <span class="btn-inner--icon"><i class="fa fa-github"></i></span>
-              <span class="btn-inner--text"><span class="text-warning">Star us</span> on Github</span>
-            </a>
-          </div>
-          <div class="mt-5">
-            <small class="text-white font-weight-bold mb-0 mr-2">*proudly coded by</small>
-            <img alt="image" src="./frontend/img/brand/creativetim-white-slim.png" style="height: 28px;">
-          </div>
+          
+
         </div>
       </div>
     </div>

@@ -1,3 +1,17 @@
+<section class="section section-lg section-nucleo-icons ">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-lg-8 text-center">
+        <h2 class="display-3">Who we are </h2>
+        <p class="lead">
+          The official package contains over 21.000 icons which are looking great in combination with Argon Design System. Make sure you check all of them and use those that you like the most.
+        </p>
+        
+      </div>
+    </div>
+
+  </div>
+</section>
 <section class="section section-lg">
   <div class="container">
     <div class="row row-grid align-items-center">
@@ -6,10 +20,7 @@
       </div>
       <div class="col-md-6 order-md-1">
         <div class="pr-md-5">
-          <div class="icon icon-lg icon-shape icon-shape-success shadow rounded-circle mb-5">
-            <i class="ni ni-settings-gear-65"></i>
-          </div>
-          <h3>Awesome features</h3>
+          <h3>Who we are </h3>
           <p>The kit comes with three pre-built pages to help you get started faster. You can change the text and images and you're good to go.</p>
           <ul class="list-unstyled mt-5">
             <li class="py-2">

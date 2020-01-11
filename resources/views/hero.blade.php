@@ -16,9 +16,9 @@
     <div class="col px-0">
       <div class="row align-items-center justify-content-center">
         <div class="col-lg-6 text-center">
+          <h2 class="display-3 text-white">Alliance Study Group Hostel   </h2>
+          <p class="lead text-white">Hostel for competitive exams aspirant, college student in North Delhi </p>
 
-          <p class="lead text-white">A beautiful Design System for Bootstrap 4. It's Free and Open Source.</p>
-          
 
         </div>
       </div>

@@ -21,8 +21,8 @@
         </div>
       </div>
     </section>
-  
-
+    @include('room')
+    @include('ourstudentsay')
     <section class="section section-components">
       <div class="container">
         <h3 class="h4 text-success font-weight-bold mb-4">Tabs</h3>
@@ -664,14 +664,7 @@
       <div class="container">
         <div class="row justify-content-center">
           <div class="col-lg-8 text-center">
-            <h2 class="display-3">Nucleo Icons</h2>
-            <p class="lead">
-              The official package contains over 21.000 icons which are looking great in combination with Argon Design System. Make sure you check all of them and use those that you like the most.
-            </p>
-            <div class="btn-wrapper">
-              <a href="https://demos.creative-tim.com/argon-design-system/docs/foundation/icons.html" class="btn btn-primary">View demo icons</a>
-              <a href="https://nucleoapp.com/?ref=1712" target="_blank" class="btn btn-default mt-3 mt-md-0">View all icons</a>
-            </div>
+            <h2 class="display-3">What our student say</h2>
           </div>
         </div>
         <div class="blur--hover">
@@ -696,11 +689,12 @@
               <i class="icon ni ni-camera-compact"></i>
               <i class="icon ni ni-chart-bar-32"></i>
             </div>
-            <span class="blur-hidden h5 text-success">Explore all the 21.000+ Nucleo Icons</span>
+            <span class="blur-hidden h5 text-success">Explore all to see what our student say </span>
           </a>
         </div>
       </div>
     </section>
+
     <section class="section section-lg section-shaped">
       <div class="shape shape-style-1 shape-default">
         <span></span>
@@ -811,17 +805,17 @@
                 </div>
                 <div class="col-lg-2 col-4">
                   <a href=" https://www.sketchapp.com/" target="_blank" data-toggle="tooltip" data-original-title="[Coming Soon] Sketch - Digital design toolkit">
-                    <img alt="image" src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/sketch.jpg" class="img-fluid opacity-3">
+                    <img alt="image" src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/sketch.jpg" class="img-fluid ">
                   </a>
                 </div>
                 <div class="col-lg-2 col-4">
                   <a href=" https://www.adobe.com/products/photoshop.html" target="_blank" data-toggle="tooltip" data-original-title="[Coming Soon] Adobe Photoshop - Software for digital images manipulation">
-                    <img alt="image" src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/ps.jpg" class="img-fluid opacity-3">
+                    <img alt="image" src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/ps.jpg" class="img-fluid ">
                   </a>
                 </div>
                 <div class="col-lg-2 col-4">
                   <a href=" https://angularjs.org/" target="_blank" data-toggle="tooltip" data-original-title="[Coming Soon] Angular - One framework. Mobile &amp; desktop">
-                    <img alt="image" src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/angular.jpg" class="img-fluid opacity-3">
+                    <img alt="image" src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/presentation-page/angular.jpg" class="img-fluid ">
                   </a>
                 </div>
                 <div class="col-lg-2 col-4">

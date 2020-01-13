@@ -1,4 +1,4 @@
-<section class="section section-lg">
+<section class="section" style="background:green">
   <div class="container">
     <div class="row row-grid align-items-center">
       <div class="col-md-6 order-md-2">
@@ -8,7 +8,7 @@
         <div class="pr-md-5">
           <h3>Who stay with us</h3>
           <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text</p>
-          <ul class="list-unstyled mt-5">
+          <ul class="list-unstyled ">
             <li class="py-2">
               <div class="d-flex align-items-center">
                 <div>

@@ -1,12 +1,20 @@
-<section class="section section-lg section-nucleo-icons ">
+<section class="section" style="background: blue">
   <div class="container">
     <div class="row justify-content-center">
       <div class="col-lg-8 text-center">
         <h2 class="display-3">Type of Room Sharing </h2>
-        <p class="lead">
-          The official package contains over 21.000 icons which are looking great in combination with Argon Design System. Make sure you check all of them and use those that you like the most.
-        </p>
+      </div>
+    </div>
 
+    <div class="row justify-content-center">
+      <div class="col-lg-4 text-center">
+        <p> This is para</p>
+      </div>
+      <div class="col-lg-4 text-center">
+        <p> This is para</p>
+      </div>
+      <div class="col-lg-4 text-center">
+        <p> This is para</p>
       </div>
     </div>
 

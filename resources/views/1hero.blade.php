@@ -13,12 +13,12 @@
     <span class="span-100"></span>
   </div>
 
-  <div class="container shape-container d-flex align-items-center py-lg">
-    <div class="col px-0">
+  <div class="container shape-container d-flex align-items-center hero-padding ">
+    <div class="col ">
       <div class="row align-items-center justify-content-center">
-        <div class="col-lg-6 text-center">
-          <h2 class="display-3 text-white">Alliance Study Group Hostel   </h2>
-          <p class="lead text-white">Hostel for competitive exams aspirant, college student in North Delhi </p>
+        <div class="col-lg-8 text-center">
+          <h2 class="display-3 text-white">Alliance Study Group Hostel, Delhi   </h2>
+          <p class="lead text-white">Exclusively for North East Student  </p>
         </div>
       </div>
     </div>
@@ -30,5 +30,5 @@
       <polygon class="fill-white" points="2560 0 2560 100 0 100"></polygon>
     </svg>
   </div>
-  
+
 </section>

@@ -1,4 +1,4 @@
-<section class="section section-lg section-nucleo-icons ">
+<section class="section" style="background:yellow">
   <div class="container">
     <div class="row justify-content-center">
       <div class="col-lg-8 text-center">

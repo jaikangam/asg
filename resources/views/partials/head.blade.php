@@ -12,3 +12,5 @@
 <link href="{{asset('frontend/vendor/font-awesome/css/font-awesome.min.css')}}" rel="stylesheet">
 <!-- Argon CSS -->
 <link type="text/css" href="{{asset('frontend/css/argon.css?v=1.1.0')}}" rel="stylesheet">
+<!-- Custom CSS -->
+<link type="text/css" href="{{asset('frontend/css/custom.css')}}" rel="stylesheet">

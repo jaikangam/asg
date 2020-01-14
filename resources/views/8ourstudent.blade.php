@@ -2,7 +2,7 @@
   <div class="container">
     <div class="row justify-content-center">
       <div class="col-lg-8 text-center">
-        <h2 class="display-3">What our student say</h2>
+        <h2>What our student say</h2>
       </div>
     </div>
     <div class="blur--hover">

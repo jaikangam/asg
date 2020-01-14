@@ -1,36 +1,59 @@
-<script type="text/javascript">
-var gallery = document.querySelector('#gallery');
-var getVal = function (elem, style) { return parseInt(window.getComputedStyle(elem).getPropertyValue(style)); };
-var getHeight = function (item) { return item.querySelector('.content').getBoundingClientRect().height; };
-var resizeAll = function () {
-    var altura = getVal(gallery, 'grid-auto-rows');
-    var gap = getVal(gallery, 'grid-row-gap');
-    gallery.querySelectorAll('.gallery-item').forEach(function (item) {
-        var el = item;
-        el.style.gridRowEnd = "span " + Math.ceil((getHeight(item) + gap) / (altura + gap));
-    });
-};
-gallery.querySelectorAll('img').forEach(function (item) {
-    item.classList.add('byebye');
-    if (item.complete) {
-        console.log(item.src);
-    }
-    else {
-        item.addEventListener('load', function () {
-            var altura = getVal(gallery, 'grid-auto-rows');
-            var gap = getVal(gallery, 'grid-row-gap');
-            var gitem = item.parentElement.parentElement;
-            gitem.style.gridRowEnd = "span " + Math.ceil((getHeight(gitem) + gap) / (altura + gap));
-            item.classList.remove('byebye');
-        });
-    }
-});
-window.addEventListener('resize', resizeAll);
-gallery.querySelectorAll('.gallery-item').forEach(function (item) {
-    item.addEventListener('click', function () {
-        item.classList.toggle('full');
-    });
-});
+//Script for Testimonial
+$(document).ready(function () {
+        $('.client-single').on('click', function (event) {
+           event.preventDefault();
+           var active = $(this).hasClass('active');
+           var parent = $(this).parents('.testi-wrap');
+           if (!active) {
+               var activeBlock = parent.find('.client-single.active');
+               var currentPos = $(this).attr('data-position');
+               var newPos = activeBlock.attr('data-position');
+               activeBlock.removeClass('active').removeClass(newPos).addClass('inactive').addClass(currentPos);
+               activeBlock.attr('data-position', currentPos);
+               $(this).addClass('active').removeClass('inactive').removeClass(currentPos).addClass(newPos);
+               $(this).attr('data-position', newPos);
+           }
+       });
+  }(jQuery));
+
+  //Script for testimonial end here
 
 
-</script>
+// Script for Gallery
+$(function(){
+
+    var swiper = new Swiper('.carousel-gallery .swiper-container', {
+      effect: 'slide',
+      speed: 900,
+      slidesPerView: 5,
+      spaceBetween: 20,
+      simulateTouch: true,
+      autoplay: {
+        delay: 5000,
+        stopOnLastSlide: false,
+        disableOnInteraction: false
+      },
+      pagination: {
+        el: '.carousel-gallery .swiper-pagination',
+        clickable: true
+      },
+      breakpoints: {
+        // when window width is <= 320px
+        320: {
+          slidesPerView: 1,
+          spaceBetween: 5
+        },
+        // when window width is <= 480px
+        425: {
+          slidesPerView: 2,
+          spaceBetween: 10
+        },
+        // when window width is <= 640px
+        768: {
+          slidesPerView: 3,
+          spaceBetween: 20
+        }
+      }
+    }); /*http://idangero.us/swiper/api/*/
+
+});

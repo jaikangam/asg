@@ -28,25 +28,25 @@
           <li class="nav-item ">
             <a href="#" class="nav-link" data-toggle="dropdown" role="button">
 
-              <span class="nav-link-inner--text">Home</span>
+              <span class="nav-link-inner--text text-uppercase">Home</span>
             </a>
           </li>
           <li class="nav-item ">
             <a href="#" class="nav-link" data-toggle="dropdown" role="button">
 
-              <span class="nav-link-inner--text">About Us </span>
+              <span class="nav-link-inner--text text-uppercase">About Us </span>
             </a>
           </li>
           <li class="nav-item ">
             <a href="#" class="nav-link" data-toggle="dropdown" role="button">
 
-              <span class="nav-link-inner--text">Facilities</span>
+              <span class="nav-link-inner--text text-uppercase">Facilities</span>
             </a>
           </li>
           <li class="nav-item ">
             <a href="#" class="nav-link" data-toggle="dropdown" role="button">
 
-              <span class="nav-link-inner--text">Testimonials</span>
+              <span class="nav-link-inner--text text-uppercase">Testimonials</span>
             </a>
           </li>
           <li class="nav-item d-lg-block ml-lg-4">

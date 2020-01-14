@@ -8,7 +8,7 @@
             <div class="col-lg-8 text-center">
 
               <div class="text-center">
-                <h4 class="display-4 mb-5 mt-5">Our Partner </h4>
+                <h4 class="mb-5 mt-5">Our Partner </h4>
                 <div class="row justify-content-center">
                   <div class="col-lg-2 col-4">
                     <a href="https://www.creative-tim.com/product/argon-design-system" target="_blank" data-toggle="tooltip" data-original-title="Bootstrap 4 - Most popular front-end component library">

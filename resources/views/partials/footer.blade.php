@@ -58,4 +58,9 @@
 <!-- Argon JS -->
 <script src="{{asset('frontend/js/argon.js?v=1.1.0')}} "></script>
 <!-- Argon JS -->
+
+<!-- Gallery Plugin Use -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.2.0/js/swiper.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js"> </script>
+
 <script src="{{asset('frontend/js/custom.js')}} "></script>

@@ -25,8 +25,9 @@
         </div>
       </div>
     </section>
+    @include('10calltoaction')
 
-  
+
   </main>
 
   @include('partials.footer')

@@ -1,90 +1,75 @@
-<section class="section" style="background:#eee">
+<section class="section" style="background:#f6f9fc">
   <div class="container">
     <div class="row justify-content-center">
       <div class="col-lg-8 text-center">
-        <h2 class="display-3">Type of Room Sharing </h2>
+        <h2>Gallery  </h2>
       </div>
     </div>
   </div>
   <!-- Gallery Started -->
-   <div class="gallery" id="gallery">
-     <div class="gallery" id="gallery">
-     <div class="gallery-item">
-         <div class="content"><img src="https://source.unsplash.com/random/?tech,care" alt=""></div>
-     </div>
-     <div class="gallery-item">
-         <div class="content"><img src="https://source.unsplash.com/random/?tech,studied" alt=""></div>
-     </div>
-     <div class="gallery-item">
-         <div class="content"><img src="https://source.unsplash.com/random/?tech,substance" alt=""></div>
-     </div>
-     <div class="gallery-item">
-         <div class="content"><img src="https://source.unsplash.com/random/?tech,choose" alt=""></div>
-     </div>
-     <div class="gallery-item">
-         <div class="content"><img src="https://source.unsplash.com/random/?tech,past" alt=""></div>
-     </div>
-     <div class="gallery-item">
-         <div class="content"><img src="https://source.unsplash.com/random/?tech,lamp" alt=""></div>
-     </div>
-     <div class="gallery-item">
-         <div class="content"><img src="https://source.unsplash.com/random/?tech,yet" alt=""></div>
-     </div>
-     <div class="gallery-item">
-         <div class="content"><img src="https://source.unsplash.com/random/?tech,eight" alt=""></div>
-     </div>
-     <div class="gallery-item">
-         <div class="content"><img src="https://source.unsplash.com/random/?tech,crew" alt=""></div>
-     </div>
-     <div class="gallery-item">
-         <div class="content"><img src="https://source.unsplash.com/random/?tech,event" alt=""></div>
-     </div>
-     <div class="gallery-item">
-         <div class="content"><img src="https://source.unsplash.com/random/?tech,instrument" alt=""></div>
-     </div>
-     <div class="gallery-item">
-         <div class="content"><img src="https://source.unsplash.com/random/?tech,practical" alt=""></div>
-     </div>
-     <div class="gallery-item">
-         <div class="content"><img src="https://source.unsplash.com/random/?tech,pass" alt=""></div>
-     </div>
-     <div class="gallery-item">
-         <div class="content"><img src="https://source.unsplash.com/random/?tech,bigger" alt=""></div>
-     </div>
-     <div class="gallery-item">
-         <div class="content"><img src="https://source.unsplash.com/random/?tech,number" alt=""></div>
-     </div>
-     <div class="gallery-item">
-         <div class="content"><img src="https://source.unsplash.com/random/?tech,feature" alt=""></div>
-     </div>
-     <div class="gallery-item">
-         <div class="content"><img src="https://source.unsplash.com/random/?tech,line" alt=""></div>
-     </div>
-     <div class="gallery-item">
-         <div class="content"><img src="https://source.unsplash.com/random/?tech,railroad" alt=""></div>
-     </div>
-     <div class="gallery-item">
-         <div class="content"><img src="https://source.unsplash.com/random/?tech,pride" alt=""></div>
-     </div>
-     <div class="gallery-item">
-         <div class="content"><img src="https://source.unsplash.com/random/?tech,too" alt=""></div>
-     </div>
-     <div class="gallery-item">
-         <div class="content"><img src="https://source.unsplash.com/random/?tech,bottle" alt=""></div>
-     </div>
-     <div class="gallery-item">
-         <div class="content"><img src="https://source.unsplash.com/random/?tech,base" alt=""></div>
-     </div>
-     <div class="gallery-item">
-         <div class="content"><img src="https://source.unsplash.com/random/?tech,cell" alt=""></div>
-     </div>
-     <div class="gallery-item">
-         <div class="content"><img src="https://source.unsplash.com/random/?tech,bag" alt=""></div>
-     </div>
-     <div class="gallery-item">
-         <div class="content"><img src="https://source.unsplash.com/random/?tech,card" alt=""></div>
-     </div>
 
-   </div>
 
+  <!--Carousel Gallery-->
+  <div class="carousel-gallery">
+      <div class="swiper-container">
+          <div class="swiper-wrapper">
+              <div class="swiper-slide">
+                  <a href="https://images.pexels.com/photos/48794/boy-walking-teddy-bear-child-48794.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" data-fancybox="gallery">
+                      <div class="image" style="background-image: url(https://images.pexels.com/photos/48794/boy-walking-teddy-bear-child-48794.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500)">
+                          <div class="overlay">
+                              <em class="mdi mdi-magnify-plus"></em>
+                          </div>
+                      </div>
+                  </a>
+              </div>
+              <div class="swiper-slide">
+                  <a href="https://images.pexels.com/photos/248280/pexels-photo-248280.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" data-fancybox="gallery">
+                      <div class="image" style="background-image: url(https://images.pexels.com/photos/248280/pexels-photo-248280.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500)">
+                          <div class="overlay">
+                              <em class="mdi mdi-magnify-plus"></em>
+                          </div>
+                      </div>
+                  </a>
+              </div>
+              <div class="swiper-slide">
+                  <a href="https://images.pexels.com/photos/89095/pexels-photo-89095.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" data-fancybox="gallery">
+                      <div class="image" style="background-image: url(https://images.pexels.com/photos/89095/pexels-photo-89095.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500)">
+                          <div class="overlay">
+                              <em class="mdi mdi-magnify-plus"></em>
+                          </div>
+                      </div>
+                  </a>
+              </div>
+              <div class="swiper-slide">
+                  <a href="https://images.pexels.com/photos/669319/pexels-photo-669319.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" data-fancybox="gallery">
+                      <div class="image" style="background-image: url(https://images.pexels.com/photos/669319/pexels-photo-669319.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500)">
+                          <div class="overlay">
+                              <em class="mdi mdi-magnify-plus"></em>
+                          </div>
+                      </div>
+                  </a>
+              </div>
+              <div class="swiper-slide">
+                  <a href="https://images.pexels.com/photos/277477/pexels-photo-277477.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" data-fancybox="gallery">
+                      <div class="image" style="background-image: url(https://images.pexels.com/photos/277477/pexels-photo-277477.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500)">
+                          <div class="overlay">
+                              <em class="mdi mdi-magnify-plus"></em>
+                          </div>
+                      </div>
+                  </a>
+              </div>
+              <div class="swiper-slide">
+                  <a href="https://images.pexels.com/photos/928276/pexels-photo-928276.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" data-fancybox="gallery">
+                      <div class="image" style="background-image: url(https://images.pexels.com/photos/928276/pexels-photo-928276.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500)">
+                          <div class="overlay">
+                              <em class="mdi mdi-magnify-plus"></em>
+                          </div>
+                      </div>
+                  </a>
+              </div>
+          </div>
+          <div class="swiper-pagination"></div>
+      </div>
+  </div>
+  <!--#Carousel Gallery-->
 </section>

@@ -6,8 +6,8 @@
       </div>
       <div class="col-md-6 order-md-1">
         <div class="pr-md-5">
-          <h3>Who stay with us</h3>
-          <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text</p>
+          <h3>Who are being with Us</h3>
+          <p class="lead">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text</p>
           <ul class="list-unstyled ">
             <li class="py-2">
               <div class="d-flex align-items-center">
@@ -30,18 +30,6 @@
                 </div>
                 <div>
                   <h6 class="mb-0">College Student</h6>
-                </div>
-              </div>
-            </li>
-            <li class="py-2">
-              <div class="d-flex align-items-center">
-                <div>
-                  <div class="badge badge-circle badge-success mr-3">
-                    <i class="ni ni-satisfied"></i>
-                  </div>
-                </div>
-                <div>
-                  <h6 class="mb-0">Higher Sec Student </h6>
                 </div>
               </div>
             </li>

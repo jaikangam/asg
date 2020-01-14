@@ -19,7 +19,7 @@
     <div class="col ">
       <div class="row align-items-center justify-content-center">
         <div class="col-lg-8 text-center">
-          <h2 class="display-3 text-white">Alliance Study Group Hostel, Delhi   </h2>
+          <h2 class=" text-white">Alliance Study Group Hostel, Delhi   </h2>
           <p class="lead text-white">Exclusively for North East Student  </p>
         </div>
       </div>

@@ -57,3 +57,5 @@
 <script src="{{asset('frontend/vendor/bootstrap-datepicker/js/bootstrap-datepicker.min.js')}}"></script>
 <!-- Argon JS -->
 <script src="{{asset('frontend/js/argon.js?v=1.1.0')}} "></script>
+<!-- Argon JS -->
+<script src="{{asset('frontend/js/custom.js')}} "></script>

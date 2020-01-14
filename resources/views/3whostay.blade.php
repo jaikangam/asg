@@ -1,4 +1,4 @@
-<section class="section" style="background:green">
+<section class="section">
   <div class="container">
     <div class="row row-grid align-items-center">
       <div class="col-md-6 order-md-2">

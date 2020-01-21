@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title> Login </title>
+    <title> ASG Hostel | Login  </title>
 
     <!-- Favicon -->
     <link rel="shortcut icon" href="{{asset('frontend/img/home/favicon.png')}}" type="image/x-icon" />
@@ -35,38 +35,16 @@
 
 <body class="login-container">
 
-    <!-- Main navbar -->
-    <div class="navbar navbar-inverse">
-        <div class="navbar-header">
-            <a class="navbar-brand" href="/"><img src="{{ asset('backend/assets/images/white.png') }} " alt="" width="" height="100"></a>
-
-            <ul class="nav navbar-nav pull-right visible-xs-block">
-                <li><a data-toggle="collapse" data-target="#navbar-mobile"><i class="icon-tree5"></i></a></li>
-            </ul>
-        </div>
-
-        <div class="navbar-collapse collapse" id="navbar-mobile">
-            <ul class="nav navbar-nav navbar-right">
-                <li>
-                    <a href="/">
-                        <i class="icon-display4"></i> <span class="visible-xs-inline-block position-right"> Go to Home </span>
-                    </a>
-                </li>
-
-            </ul>
-        </div>
-    </div>
-    <!-- /main navbar -->
-
+    
 
     <!-- Page container -->
-    <div class="page-container">
+    <div class="page-container" >
 
         <!-- Page content -->
         <div class="page-content">
 
             <!-- Main content -->
-            <div class="content-wrapper">
+            <div class="content-wrapper" style="padding-top:100px">
 
                 <!-- Content area -->
                 <div class="content">
@@ -78,7 +56,7 @@
                         <div class="panel panel-body login-form">
                             <div class="text-center">
                                 <div class="icon-object border-slate-300 text-slate-300"><i class="icon-reading"></i></div>
-                                <h5 class="content-group">Login to your account <small class="display-block">Enter your credentials below</small></h5>
+                                <h5 class="content-group">Login to ASG Portal <small class="display-block">Enter your credentials below</small></h5>
                             </div>
 
                             <!-- Open Username Input -->
@@ -128,7 +106,7 @@
 
                     <!-- Footer -->
                     <div class="footer text-muted text-center">
-                        &copy; 2007 - 2019. <a href="/">CHRMP | All Rights Reserved </a> by <a href="http://www.rippleslearning.com/" target="_blank">Ripples Learning Services </a>
+                        Copyright &copy; 2015 - <?php echo  date("Y");  ?>. <a href="/"> ASG Hostel | All Rights Reserved, </a> Develop by <a href="#" target="_blank"> Khamlou InfoTech </a>
                     </div>
                     <!-- /footer -->
 

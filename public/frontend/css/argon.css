@@ -532,7 +532,7 @@ h5,
 h6,
 .h6
 {
-    font-size: 1rem;
+    font-size: 17px;
 }
 
 .display-1
@@ -19766,7 +19766,6 @@ article h5 + figure
 
 .headroom--pinned
 {
-    z-index: 3;
 
     width: 100%;
 

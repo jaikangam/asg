@@ -123,12 +123,12 @@
   padding: 0 30px;
 }
 .client-comment h3 {
-  font-size: 22px;
+  font-size: 16px;
   line-height: 32px;
   color: #505b6d;
 }
 .client-comment span i {
-  font-size: 60px;
+  font-size: 30px;
   color: #0084ff;
   margin: 40px 0 24px;
   display: inline-block;
@@ -150,7 +150,7 @@
   }
 
   .client-comment h3 {
-    font-size: 18px;
+    font-size: 16px;
     line-height: 28px;
   }
 
@@ -209,7 +209,7 @@
   }
 
   .client-comment span i {
-    font-size: 40px;
+    font-size: 30px;
   }
 
   .client-single:not(.active) {
@@ -269,7 +269,7 @@
   }
 
   .client-comment span i {
-    font-size: 40px;
+    font-size: 20px;
   }
 
   .client-single:not(.active) {
@@ -493,4 +493,11 @@
 .cardIcon{
   color:#8dc162;
   padding:0px 10px 0px 0px;
+}
+
+/* Hostel Room */
+
+.hosteroom img{
+  width: 120px;
+  height: 120px;
 }

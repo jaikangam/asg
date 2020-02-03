@@ -17,14 +17,8 @@
       @include('6gallery')
       @include('7testimonial')
       @include('8ourstudent')
-
-    <section class="section pb-0 section-components">
-      <div class="py-5 bg-secondary">
-        <div class="container">
-           @include('9ourpartner')
-        </div>
-      </div>
-    </section>
+      @include('9ourpartner')
+   
     @include('10calltoaction')
 
 

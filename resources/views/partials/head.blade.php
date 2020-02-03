@@ -2,7 +2,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="description" content="Start your development with a Design System for Bootstrap 4.">
 <meta name="author" content="Creative Tim">
-<title> ASG Hostel - SEO Keyword </title>
+<title> ASG Hostel </title>
 <!-- Favicon -->
 <link href="{{asset('frontend/img/brand/favicon.png')}}" rel="icon" type="image/png">
 <!-- Fonts -->

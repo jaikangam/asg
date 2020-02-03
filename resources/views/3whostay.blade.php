@@ -25,7 +25,7 @@
               <div class="d-flex align-items-center">
                 <div>
                   <div class="badge badge-circle badge-success mr-3">
-                    <i class="ni ni-html5"></i>
+                    <i class="fas fa-user-graduate"></i>
                   </div>
                 </div>
                 <div>

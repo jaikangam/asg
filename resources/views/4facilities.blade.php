@@ -1,80 +1,139 @@
-<section class="section" style="background:#f6f9fc" >
-  <div class="container pb-100">
-    <div class="row text-center justify-content-center">
-      <div class="col-lg-10">
-        <h2 class=" ">Facilities</h2>
-        <p class="lead">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit magni similique hic autem alias nihil voluptas laborum, illum rerum quibusdam. Quisquam sed illo deserunt porro corrupti suscipit distinctio, doloribus quibusdam.</p>
-      </div>
-    </div>
-    <div class="row row-grid mt-3">
-      <div class="col-lg-3">
-        <div class="icon icon-lg icon-shape bg-gradient-white shadow rounded-circle text-primary">
-          <i class="ni ni-settings text-primary"></i>
-        </div>
-        <h6 class="mt-2">High Speed WiFi</h6>
-        <p class=" ">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-      </div>
-      <div class="col-lg-3">
-        <div class="icon icon-lg icon-shape bg-gradient-white shadow rounded-circle text-primary">
-          <i class="ni ni-settings text-primary"></i>
-        </div>
-        <h6 class=" mt-2">Fully AC Library</h6>
-        <p class=" ">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-      </div>
-      <div class="col-lg-3">
-        <div class="icon icon-lg icon-shape bg-gradient-white shadow rounded-circle text-primary">
-          <i class="ni ni-ruler-pencil text-primary"></i>
-        </div>
-        <h6 class=" mt-2">Single or Double room </h6>
-        <p class=" ">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-      </div>
-      <div class="col-lg-3">
-        <div class="icon icon-lg icon-shape bg-gradient-white shadow rounded-circle text-primary">
-          <i class="ni ni-atom text-primary"></i>
-        </div>
-        <h6 class=" mt-2">Topic wise discussion </h6>
-        <p class="">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-      </div>
-    </div>
+
+<section class="section section-lg pb-5 section-components" style="background:#f6f9fc" >
+  <!-- Open Container -->
+  <div class="container ">
+    
+    <!-- Open Row 1  -->
+    <div class="row align-items-center">
+      
+      <div class="col-md-6 facilities">
+        <h2 class="brand_color padding-bottom-30">Facilities</h2>
+        <!-- Open the Learning Outcome 1 -->
+        <div class="d-flex px-3 ">
+          <div>
+            <div class="icon icon-md icon-shape bg-brand-color shadow rounded-circle text-primary">
+              <img alt="image" src="./assets/images/icon/predictive.png">
+            </div>
+          </div>
+          <div class="pl-4">
+            <h5 class="brand_color">Predictive Analysis </h5>
+            <p class="font-weight-500"> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eius, error quod ut nesciunt perspiciatis  </p>
+          </div>
+        </div> <!-- Open the Learning Outcome 1 close -->
+
+         <!-- Open the Learning Outcome 1 -->
+        <div class="d-flex px-3">
+          <div>
+            <div class="icon icon-md icon-shape bg-brand-color shadow  rounded-circle text-primary">
+              <img alt="image" src="./assets/images/icon/data.png">
+            </div>
+          </div>
+          <div class="pl-4">
+            <h5 class="brand_color">Business Data </h5>
+            <p class="font-weight-500"> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eius, error quod ut nesciunt perspiciatis  </p>
+          </div>
+        </div> <!-- Open the Learning Outcome 1 close -->
 
 
-    <div class="row row-grid mt-3">
-      <div class="col-lg-3">
-        <div class="icon icon-lg icon-shape bg-gradient-white shadow rounded-circle text-primary">
-          <i class="ni ni-settings text-primary"></i>
-        </div>
-        <h6 class=" mt-2">R.O Drinking Water </h6>
-        <p class=" ">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-      </div>
-      <div class="col-lg-3">
-        <div class="icon icon-lg icon-shape bg-gradient-white shadow rounded-circle text-primary">
-          <i class="ni ni-settings text-primary"></i>
-        </div>
-        <h6 class=" mt-2">Northeast Cuisine </h6>
-        <p class=" ">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-      </div>
-      <div class="col-lg-3">
-        <div class="icon icon-lg icon-shape bg-gradient-white shadow rounded-circle text-primary">
-          <i class="ni ni-ruler-pencil text-primary"></i>
-        </div>
-        <h6 class=" mt-2">Sunday Worship Service </h6>
-        <p class=" ">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-      </div>
-      <div class="col-lg-3">
-        <div class="icon icon-lg icon-shape bg-gradient-white shadow rounded-circle text-primary">
-          <i class="ni ni-atom text-primary"></i>
-        </div>
-        <h6 class=" mt-2">Transportation </h6>
-        <p class="">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-      </div>
-    </div>
+         <!-- Open the Learning Outcome 1 -->
+        <div class="d-flex px-3">
+          <div>
+            <div class="icon icon-md icon-shape bg-brand-color shadow rounded-circle text-primary">
+              <img alt="image" src="./assets/images/icon/dashboard.png">
+            </div>
+          </div>
+          <div class="pl-4">
+            <h5 class="brand_color">HR Dashboard Design</h5>
+            <p class="font-weight-500"> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eius, error quod ut nesciunt perspiciatis  </p>
+          </div>
+        </div> <!-- Open the Learning Outcome 1 close -->
+
+        <!-- Open the Learning Outcome 1 -->
+        <div class="d-flex px-3">
+          <div>
+            <div class="icon icon-md icon-shape bg-brand-color shadow rounded-circle text-primary">
+              <img alt="image" src="./assets/images/icon/roi.png">
+            </div>
+          </div>
+          <div class="pl-4">
+            <h5 class="brand_color"> ROI </h5>
+            <p class="font-weight-500"> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eius, error quod ut nesciunt perspiciatis  </p>
+          </div>
+        </div> <!-- Open the Learning Outcome 1 close -->
+
+      </div> 
+
+      <div class="col-md-6 justify-content-center">
+        <img src="./assets/images/learning_outcome.png" class="img-fluid" alt="image">
+      </div> 
+
+    </div> <!-- Close the Row 1 -->
+
+    <!-- Open the Row 2  -->
+    <div class="row  align-items-center padding-bottom-30 mt-5">
+     
+      <div class="col-md-6">
+        <img src="./assets/images/learning.png" class="img-fluid" alt="image">
+      </div>  
+
+      <div class="col-md-6 facilities">
+        
+        <!-- Open the Learning Outcome 1 -->
+        <div class="d-flex px-3 ">
+          <div>
+            <div class="icon icon-md icon-shape bg-brand-color shadow rounded-circle text-primary">
+              <img alt="image" src="./assets/images/icon/workload.png">
+            </div>
+          </div>
+          <div class="pl-4">
+            <h5 class="brand_color">Wordload Analysis </h5>
+            <p class="font-weight-500"> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eius, error quod ut nesciunt perspiciatis  </p>
+          </div>
+        </div> <!-- Open the Learning Outcome 1 close -->
+
+         <!-- Open the Learning Outcome 1 -->
+        <div class="d-flex px-3">
+          <div>
+            <div class="icon icon-md icon-shape bg-brand-color shadow  rounded-circle text-primary">
+              <img alt="image" src="./assets/images/icon/description.png">
+            </div>
+          </div>
+          <div class="pl-4">
+            <h5 class="brand_color">Descriptive Analysis </h5>
+            <p class="font-weight-500"> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eius, error quod ut nesciunt perspiciatis </p>
+          </div>
+        </div> <!-- Open the Learning Outcome 1 close -->
 
 
-  </div>
-  <!-- SVG separator -->
-  <div class="separator separator-bottom separator-skew zindex-100">
-    <svg x="0" y="0" viewBox="0 0 2560 100" preserveAspectRatio="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
-      <polygon class="fill-white" points="2560 0 2560 100 0 100"></polygon>
-    </svg>
-  </div>
+         <!-- Open the Learning Outcome 1 -->
+        <div class="d-flex px-3">
+          <div>
+            <div class="icon icon-md icon-shape bg-brand-color shadow rounded-circle text-primary">
+              <img alt="image" src="./assets/images/icon/appreciation.png">
+            </div>
+          </div>
+          <div class="pl-4">
+            <h5 class="brand_color">Appreciation Awareness</h5>
+            <p class="font-weight-500"> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eius, error quod ut nesciunt perspiciatis  </p>
+          </div>
+        </div> <!-- Open the Learning Outcome 1 close -->
+
+        <!-- Open the Learning Outcome 1 -->
+        <div class="d-flex px-3">
+          <div>
+            <div class="icon icon-md icon-shape bg-brand-color shadow rounded-circle text-primary">
+              <img alt="image" src="./assets/images/icon/people.png">
+            </div>
+          </div>
+          <div class="pl-4">
+            <h5 class="brand_color"> People Analytics </h5>
+            <p class="font-weight-500"> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eius, error quod ut nesciunt </p>
+          </div>
+        </div> <!-- Open the Learning Outcome 1 close -->
+
+      </div>
+    
+    </div> <!-- Close the Row 2  -->
+
+  </div> <!-- Close Container -->
 </section>

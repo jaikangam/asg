@@ -29,6 +29,50 @@
         </div> <!-- Close SVG separator -->
       </section> <!-- Close Banner -->
 
+
+        <!-- Open the testiomonail Section -->
+    <section> 
+      <div class="container  mt--150" >
+        <div class="row">
+          <div class="col-md-4">
+            <div class="card shadow py-3 px-3"> 
+              <div class="icon icon-shape bg-gradient-primary rounded-circle align-content-center text-white mb-3">
+                <i class="ni ni-html5"></i>
+              </div>
+              <h6>Developer First</h6>
+              <p class="description">Argon Design System is a "Developer First" product, with a lot of variables for colors, fonts, sizes and other elements.</p>
+            </div>
+          </div>
+
+
+          <div class="col-md-4">
+            <div class="card shadow py-3 px-3"> 
+              <div class="icon icon-shape bg-gradient-primary rounded-circle text-white mb-3">
+                <i class="ni ni-html5"></i>
+              </div>
+              <h6>Developer First</h6>
+              <p class="description">Argon Design System is a "Developer First" product, with a lot of variables for colors, fonts, sizes and other elements.</p>
+            </div>
+          </div>
+
+
+          <div class="col-md-4">
+            <div class="card shadow py-3 px-3"> 
+              <div class="icon icon-shape bg-gradient-primary rounded-circle text-white mb-3">
+                <i class="ni ni-html5"></i>
+              </div>
+              <h6>Developer First</h6>
+              <p class="description">Argon Design System is a "Developer First" product, with a lot of variables for colors, fonts, sizes and other elements.</p>
+            </div>
+          </div>
+
+
+
+
+        </div>
+      </div>
+    </section> <!-- Close the testimonial Section -->
+
       @include('2message')
       @include('3whostay')
       @include('4facilities')

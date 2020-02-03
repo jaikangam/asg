@@ -1,9 +1,10 @@
-.hero-padding {
-  padding-top: 10rem !important;
-  padding-bottom: : 10rem !important;
+#hero-banner{
+  background:url('/frontend/images/banner.jpg');
+  background-size:cover;
+  background-position:center; 
+  display: block;
 }
 
-/* Style for Testimonial Section  */
 #testimonial-area .section-heading h2 {
   font-size: 48px;
   line-height: 58px;

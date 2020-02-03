@@ -1,5 +1,5 @@
 <header class="header-global">
-  <nav id="navbar-main" class="navbar navbar-main navbar-expand-lg navbar-transparent navbar-light ">
+  <nav id="navbar-main" class="navbar navbar-main navbar-expand-lg navbar-transparent navbar-light">
     <div class="container">
       <a class="navbar-brand mr-lg-5" href="./index.html">
         <img alt="image" src="./assets/img/brand/master.png">
@@ -53,10 +53,10 @@
           
           <li class="nav-item d-none d-lg-block ml-lg-4">
             <a href="https://www.creative-tim.com/product/argon-design-system" target="_blank" class="btn btn-neutral btn-icon">
-             
               <span class="nav-link-inner--text">Contact Us</span>
             </a>
           </li>
+          
         </ul>
       </div>
     </div>

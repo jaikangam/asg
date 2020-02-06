@@ -1,14 +1,15 @@
-
-<section id="testimonial-area">
+<section class="section" id="testimonial-area">
     <div class="container">
-        <div class="row py-5">
+        <div class="row">
             <div class="col-md-8 offset-md-2">
                 <div class=" text-center">
-                    <h2>Testimonials  </h2>
+                    <h2 class="brand-color font-weight-600">Testimonials  </h2>
                     
                 </div>
             </div>
         </div>
+
+
         <div class="testi-wrap">
 
             <div class="client-single active position-1" data-position="position-1">

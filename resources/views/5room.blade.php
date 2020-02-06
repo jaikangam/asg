@@ -2,7 +2,7 @@
   <div class="container">
     <div class="row justify-content-center">
       <div class="col-lg-8 text-center">
-        <h2>Hostel Room Types </h2>
+        <h2 class="brand-color font-weight-600"> Hostel Room Plan </h2>
       </div>
     </div>
   </div>
@@ -11,8 +11,8 @@
       <div class="col-lg-12">
         <div class="row row-grid mb-50">
          
-          <div class="col-lg-4">
-            <div class="hosteroom card card-lift--hover shadow border-0">
+          <div class="col-lg-4 col-md-4 col-sm-6">
+            <div class="hosteroom card  shadow border-0">
               <div class="card-body py-4">
                 <div class="mb-1">
                   <img src="https://www.chrmp.com/frontend/images/lastdiv/2.png" alt="" class=" img-fluid img-center">
@@ -38,8 +38,8 @@
             </div>
           </div><!-- Close col 4--> 
          
-          <div class="col-lg-4">
-            <div class="hosteroom card card-lift--hover shadow border-0">
+           <div class="col-lg-4 col-md-4 col-sm-6">
+            <div class="hosteroom card  shadow border-0">
               <div class="card-body py-4">
                 <div class="mb-1">
                  <img src="https://www.chrmp.com/frontend/images/lastdiv/2.png" alt="" class=" img-fluid img-center">
@@ -66,8 +66,8 @@
             </div>
           </div><!-- Close col 4--> 
          
-          <div class="col-lg-4">
-            <div class="hosteroom card card-lift--hover shadow border-0">
+           <div class="col-lg-4 col-md-4 col-sm-6">
+            <div class="hosteroom card  shadow border-0">
               <div class="card-body py-4">
                 <div class="mb-1">
                  <img src="https://www.chrmp.com/frontend/images/lastdiv/2.png" alt="" class=" img-fluid img-center">

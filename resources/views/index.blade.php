@@ -11,12 +11,12 @@
   <main>
 
       <!-- Open Banner -->
-      <section class="section section-lg " id="hero-banner"> 
+      <section class="section section-lg gradient-overlay " id="hero-banner"> 
         <div class="container py-md">
           <div class="row align-items-center justify-content-center pt-100 pb-100">
             <div class=" col-lg-8 text-center">
               <h2 class=" display-3 text-white">Alliance Study Group Hostel, Delhi   </h2>
-              <p class="lead text-white font-weight-500">Exclusively for North East Student  </p>
+              <h4 class=" display-4 text-white font-weight-500">Exclusively for North East Student  </h4>
             </div>
           </div>
         </div>
@@ -33,40 +33,38 @@
         <!-- Open the testiomonail Section -->
     <section> 
       <div class="container  mt--150" >
-        <div class="row">
-          <div class="col-md-4">
-            <div class="card shadow py-3 px-3"> 
-              <div class="icon icon-shape bg-gradient-primary rounded-circle align-content-center text-white mb-3">
-                <i class="ni ni-html5"></i>
+        <div class="row text-center">
+         
+          <div class="col-md-4 col-lg-4">
+            <div class="card card-lift--hover card-margin  py-3 px-4">
+              <div class="hero-card"> 
+                <img src="{{ asset('frontend/images/northeast.svg')}}" width="80" alt="promo" class="img-fluid">
+                <h5 class="font-weight-600 brand-color ">Notheast Food </h5>
+                <p class="description font-weight-500">Argon Design System is a "Developer First" product, with a lot of variables for colors, fonts, sizes and other elements.</p>
               </div>
-              <h6>Developer First</h6>
-              <p class="description">Argon Design System is a "Developer First" product, with a lot of variables for colors, fonts, sizes and other elements.</p>
+            </div>
+          </div>
+
+          <div class="col-md-4 col-lg-4">
+            <div class="card card-lift--hover card-margin  py-3 px-4">
+              <div class="hero-card"> 
+                <img src="{{ asset('frontend/images/northeast.svg')}}" width="80" alt="promo" class="img-fluid">
+                <h5 class="font-weight-600 brand-color">Notheast Food </h5>
+                <p class="description font-weight-500">Argon Design System is a "Developer First" product, with a lot of variables for colors, fonts, sizes and other elements.</p>
+              </div>
             </div>
           </div>
 
 
-          <div class="col-md-4">
-            <div class="card shadow py-3 px-3"> 
-              <div class="icon icon-shape bg-gradient-primary rounded-circle text-white mb-3">
-                <i class="ni ni-html5"></i>
+          <div class="col-md-4 col-lg-4">
+            <div class="card card-lift--hover card-margin  py-3 px-4">
+              <div class="hero-card"> 
+                <img src="{{ asset('frontend/images/northeast.svg')}}" width="80" alt="promo" class="img-fluid">
+                <h5 class="font-weight-600 brand-color ">Notheast Food </h5>
+                <p class="description font-weight-500">Argon Design System is a "Developer First" product, with a lot of variables for colors, fonts, sizes and other elements.</p>
               </div>
-              <h6>Developer First</h6>
-              <p class="description">Argon Design System is a "Developer First" product, with a lot of variables for colors, fonts, sizes and other elements.</p>
             </div>
           </div>
-
-
-          <div class="col-md-4">
-            <div class="card shadow py-3 px-3"> 
-              <div class="icon icon-shape bg-gradient-primary rounded-circle text-white mb-3">
-                <i class="ni ni-html5"></i>
-              </div>
-              <h6>Developer First</h6>
-              <p class="description">Argon Design System is a "Developer First" product, with a lot of variables for colors, fonts, sizes and other elements.</p>
-            </div>
-          </div>
-
-
 
 
         </div>
@@ -74,7 +72,7 @@
     </section> <!-- Close the testimonial Section -->
 
       @include('2message')
-      @include('3whostay')
+     
       @include('4facilities')
       @include('5room')
       @include('6gallery')

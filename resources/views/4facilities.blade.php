@@ -1,13 +1,13 @@
 
-<section class="section section-lg pb-5 section-components" style="background:#f6f9fc" >
+<section class="section" style="background:#f6f9fc" >
   <!-- Open Container -->
   <div class="container ">
-    
+    <h2 class="brand_color text-center padding-bottom-30 brand-color font-weight-600">Facilities</h2>
     <!-- Open Row 1  -->
-    <div class="row align-items-center">
-      
+    <div class="row align-items-center mt-50">
+     
       <div class="col-md-6 facilities">
-        <h2 class="brand_color padding-bottom-30">Facilities</h2>
+        
         <!-- Open the Learning Outcome 1 -->
         <div class="d-flex px-3 ">
           <div>

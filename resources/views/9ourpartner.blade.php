@@ -1,7 +1,7 @@
-<section class="section bg-secondary mt-100"> 
+<section class="section bg-secondary"> 
   <!-- Client Logo here  -->
    <div class="container">
-     <h3 class=" text-center">Client Logo</h3>
+     <h3 class="brand-color font-weight-600 text-center">Client Logo</h3>
        <div class="text-center "> 
          <div class="row justify-content-center pt-4">
 

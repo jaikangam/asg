@@ -2,7 +2,7 @@
   <div class="container">
     <div class="row justify-content-center">
       <div class="col-lg-8 text-center">
-        <h2>Gallery  </h2>
+        <h2 class="brand-color font-weight-600">Gallery  </h2>
       </div>
     </div>
   </div>
@@ -72,4 +72,6 @@
       </div>
   </div>
   <!--#Carousel Gallery-->
+
+  
 </section>

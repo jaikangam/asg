@@ -39,7 +39,7 @@
             <div class="card card-lift--hover card-margin  py-3 px-4">
               <div class="hero-card"> 
                 <img src="{{ asset('frontend/images/northeast.svg')}}" width="80" alt="promo" class="img-fluid">
-                <h5 class="font-weight-600 brand-color ">Notheast Food </h5>
+                <h5 class="font-weight-600 brand-color ">Reasonable Rate  </h5>
                 <p class="description font-weight-500">Argon Design System is a "Developer First" product, with a lot of variables for colors, fonts, sizes and other elements.</p>
               </div>
             </div>
@@ -49,7 +49,7 @@
             <div class="card card-lift--hover card-margin  py-3 px-4">
               <div class="hero-card"> 
                 <img src="{{ asset('frontend/images/northeast.svg')}}" width="80" alt="promo" class="img-fluid">
-                <h5 class="font-weight-600 brand-color">Notheast Food </h5>
+                <h5 class="font-weight-600 brand-color">Notheast Cuisine  </h5>
                 <p class="description font-weight-500">Argon Design System is a "Developer First" product, with a lot of variables for colors, fonts, sizes and other elements.</p>
               </div>
             </div>
@@ -60,7 +60,7 @@
             <div class="card card-lift--hover card-margin  py-3 px-4">
               <div class="hero-card"> 
                 <img src="{{ asset('frontend/images/northeast.svg')}}" width="80" alt="promo" class="img-fluid">
-                <h5 class="font-weight-600 brand-color ">Notheast Food </h5>
+                <h5 class="font-weight-600 brand-color "> </h5>
                 <p class="description font-weight-500">Argon Design System is a "Developer First" product, with a lot of variables for colors, fonts, sizes and other elements.</p>
               </div>
             </div>

@@ -38,7 +38,7 @@
           <div class="col-md-4 col-lg-4">
             <div class="card card-lift--hover card-margin  py-3 px-4">
               <div class="hero-card"> 
-                <img src="{{ asset('frontend/images/northeast.svg')}}" width="80" alt="promo" class="img-fluid">
+                <img src="{{ asset('frontend/img/icons/money.png')}}" width="80" alt="promo" class="img-fluid">
                 <h5 class="font-weight-600 brand-color ">Reasonable Rate  </h5>
                 <p class="description font-weight-500">Argon Design System is a "Developer First" product, with a lot of variables for colors, fonts, sizes and other elements.</p>
               </div>
@@ -48,7 +48,7 @@
           <div class="col-md-4 col-lg-4">
             <div class="card card-lift--hover card-margin  py-3 px-4">
               <div class="hero-card"> 
-                <img src="{{ asset('frontend/images/northeast.svg')}}" width="80" alt="promo" class="img-fluid">
+                <img src="{{ asset('frontend/img/icons/dish.png')}}" width="80" alt="promo" class="img-fluid">
                 <h5 class="font-weight-600 brand-color">Notheast Cuisine  </h5>
                 <p class="description font-weight-500">Argon Design System is a "Developer First" product, with a lot of variables for colors, fonts, sizes and other elements.</p>
               </div>
@@ -59,8 +59,8 @@
           <div class="col-md-4 col-lg-4">
             <div class="card card-lift--hover card-margin  py-3 px-4">
               <div class="hero-card"> 
-                <img src="{{ asset('frontend/images/northeast.svg')}}" width="80" alt="promo" class="img-fluid">
-                <h5 class="font-weight-600 brand-color "> </h5>
+                <img src="{{ asset('frontend/img/icons/mentor.png')}}" width="80" alt="promo" class="img-fluid">
+                <h5 class="font-weight-600 brand-color "> Experience Mentor  </h5>
                 <p class="description font-weight-500">Argon Design System is a "Developer First" product, with a lot of variables for colors, fonts, sizes and other elements.</p>
               </div>
             </div>

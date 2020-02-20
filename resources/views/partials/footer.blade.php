@@ -5,7 +5,7 @@
       <div class="col-md-3 col-sm-3">
         <div class="footer-logo">
           <!-- Logo here <img alt="image" src="./assets/img/brand/white.png"> -->
-          <img alt="Chrmp Footer Logo" src="./assets/img/brand/chrmp_original.png">
+          <img alt="image" src="{{ asset('frontend/img/brand/footer.png')}}">
         </div>
       </div>
       <!-- Close First Column -->
@@ -13,7 +13,7 @@
       <!-- Second Column -->
       <div class="col-md-6 col-sm-6">
         <div class="text-center">
-          Copyright © 2019, ASG Hostel | All Rights Reserved
+          Copyright © 2020, ASG Hostel | All Rights Reserved
         </div>
       </div>
       <!-- Close Second Column -->

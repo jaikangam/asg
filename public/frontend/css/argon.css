@@ -17750,7 +17750,11 @@ textarea[resize='horizontal']
 }
 .navbar-brand img
 {
-    height: 30px;
+    height: 90px;
+}
+.footer-logo img
+{
+    height: 70px;
 }
 
 .navbar-dark .navbar-brand

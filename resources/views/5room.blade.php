@@ -97,7 +97,7 @@
       </div>
     </div>
     <div class="modal fade" id="modal-notification" tabindex="-1" role="dialog" aria-labelledby="modal-notification" aria-hidden="true">
-        <div class="modal-dialog modal-danger modal-dialog-centered modal-" role="document">
+        <div class="modal-dialog modal-danger modal-dialog-centered modal-md" role="document">
             <div class="modal-content bg-gradient-danger">
     
                 <div class="modal-header">

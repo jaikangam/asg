@@ -1,8 +1,8 @@
 <section class="section mt-50">
   <div class="container">
     <div class="row justify-content-center">
-      <div class="col-lg-4">
-        <img src="{{asset('frontend/img/theme/promo-1.png')}}" class="img-fluid floating" alt="image">
+      <div class="col-lg-4  mt-50">
+        <img src="{{asset('frontend/img/theme/award.jpeg')}}" class="img-fluid floating" alt="image">
       </div>
       <div class="col-lg-8 text-center mt-50">
         <h2 class="brand-color font-weight-600">Why ASG Hostel </h2>

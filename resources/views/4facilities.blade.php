@@ -11,12 +11,12 @@
         <!-- Open the Learning Outcome 1 -->
         <div class="d-flex px-3 ">
           <div>
-            <div class="icon icon-md icon-shape bg-brand-color shadow rounded-circle text-primary">
-              <img alt="image" src="./assets/images/icon/predictive.png">
+            <div class="icon icon-md icon-shape bg-brand-color shadow rounded-circle text-primary"> 
+            <img alt="image" src="{{ asset('frontend/img/icons/wifi.png')}}">
             </div>
           </div>
           <div class="pl-4">
-            <h5 class="brand_color">Predictive Analysis </h5>
+            <h5 class="brand_color">High Speed WIFI </h5>
             <p class="font-weight-500"> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eius, error quod ut nesciunt perspiciatis  </p>
           </div>
         </div> <!-- Open the Learning Outcome 1 close -->
@@ -25,11 +25,11 @@
         <div class="d-flex px-3">
           <div>
             <div class="icon icon-md icon-shape bg-brand-color shadow  rounded-circle text-primary">
-              <img alt="image" src="./assets/images/icon/data.png">
+              <img alt="image" src="{{ asset('frontend/img/icons/fan.png')}}">
             </div>
           </div>
           <div class="pl-4">
-            <h5 class="brand_color">Business Data </h5>
+            <h5 class="brand_color">Fully AC Library </h5>
             <p class="font-weight-500"> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eius, error quod ut nesciunt perspiciatis  </p>
           </div>
         </div> <!-- Open the Learning Outcome 1 close -->
@@ -39,11 +39,11 @@
         <div class="d-flex px-3">
           <div>
             <div class="icon icon-md icon-shape bg-brand-color shadow rounded-circle text-primary">
-              <img alt="image" src="./assets/images/icon/dashboard.png">
+            <img alt="image" src="{{ asset('frontend/img/icons/team.png')}}">
             </div>
           </div>
           <div class="pl-4">
-            <h5 class="brand_color">HR Dashboard Design</h5>
+            <h5 class="brand_color"> Topic Wise Discussion </h5>
             <p class="font-weight-500"> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eius, error quod ut nesciunt perspiciatis  </p>
           </div>
         </div> <!-- Open the Learning Outcome 1 close -->
@@ -52,11 +52,11 @@
         <div class="d-flex px-3">
           <div>
             <div class="icon icon-md icon-shape bg-brand-color shadow rounded-circle text-primary">
-              <img alt="image" src="./assets/images/icon/roi.png">
+            <img alt="image" src="{{ asset('frontend/img/icons/bed.png')}}">
             </div>
           </div>
           <div class="pl-4">
-            <h5 class="brand_color"> ROI </h5>
+            <h5 class="brand_color">Single / Double Room </h5>
             <p class="font-weight-500"> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eius, error quod ut nesciunt perspiciatis  </p>
           </div>
         </div> <!-- Open the Learning Outcome 1 close -->
@@ -82,11 +82,11 @@
         <div class="d-flex px-3 ">
           <div>
             <div class="icon icon-md icon-shape bg-brand-color shadow rounded-circle text-primary">
-              <img alt="image" src="./assets/images/icon/workload.png">
+            <img alt="image" src="{{ asset('frontend/img/icons/bottle.png')}}">
             </div>
           </div>
           <div class="pl-4">
-            <h5 class="brand_color">Wordload Analysis </h5>
+            <h5 class="brand_color">R.O Drinking Water </h5>
             <p class="font-weight-500"> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eius, error quod ut nesciunt perspiciatis  </p>
           </div>
         </div> <!-- Open the Learning Outcome 1 close -->
@@ -95,11 +95,11 @@
         <div class="d-flex px-3">
           <div>
             <div class="icon icon-md icon-shape bg-brand-color shadow  rounded-circle text-primary">
-              <img alt="image" src="./assets/images/icon/description.png">
+            <img alt="image" src="{{ asset('frontend/img/icons/food.png')}}">
             </div>
           </div>
           <div class="pl-4">
-            <h5 class="brand_color">Descriptive Analysis </h5>
+            <h5 class="brand_color">Northeast Cuisine  </h5>
             <p class="font-weight-500"> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eius, error quod ut nesciunt perspiciatis </p>
           </div>
         </div> <!-- Open the Learning Outcome 1 close -->
@@ -109,11 +109,11 @@
         <div class="d-flex px-3">
           <div>
             <div class="icon icon-md icon-shape bg-brand-color shadow rounded-circle text-primary">
-              <img alt="image" src="./assets/images/icon/appreciation.png">
+              <img alt="image" src="{{ asset('frontend/img/icons/pray.png')}}">
             </div>
           </div>
           <div class="pl-4">
-            <h5 class="brand_color">Appreciation Awareness</h5>
+            <h5 class="brand_color">Sunday Worship Service</h5>
             <p class="font-weight-500"> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eius, error quod ut nesciunt perspiciatis  </p>
           </div>
         </div> <!-- Open the Learning Outcome 1 close -->
@@ -122,11 +122,11 @@
         <div class="d-flex px-3">
           <div>
             <div class="icon icon-md icon-shape bg-brand-color shadow rounded-circle text-primary">
-              <img alt="image" src="./assets/images/icon/people.png">
+            <img alt="image" src="{{ asset('frontend/img/icons/van.png')}}">
             </div>
           </div>
           <div class="pl-4">
-            <h5 class="brand_color"> People Analytics </h5>
+            <h5 class="brand_color"> Transportation  </h5>
             <p class="font-weight-500"> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eius, error quod ut nesciunt </p>
           </div>
         </div> <!-- Open the Learning Outcome 1 close -->

@@ -40,7 +40,7 @@
               <div class="hero-card"> 
                 <img src="{{ asset('frontend/img/icons/money.png')}}" width="80" alt="promo" class="img-fluid">
                 <h5 class="font-weight-600 brand-color ">Reasonable Rate  </h5>
-                <p class="description font-weight-500">Argon Design System is a "Developer First" product, with a lot of variables for colors, fonts, sizes and other elements.</p>
+                <p class="description font-weight-500">Reasonable rate in the capital with all the facilities available to build your career staying with us. </p>
               </div>
             </div>
           </div>
@@ -61,7 +61,7 @@
               <div class="hero-card"> 
                 <img src="{{ asset('frontend/img/icons/mentor.png')}}" width="80" alt="promo" class="img-fluid">
                 <h5 class="font-weight-600 brand-color "> Experience Mentor  </h5>
-                <p class="description font-weight-500">Argon Design System is a "Developer First" product, with a lot of variables for colors, fonts, sizes and other elements.</p>
+                <p class="description font-weight-500">We have an experience mentor to provide guidance, motivation, support and role modeling.</p>
               </div>
             </div>
           </div>
@@ -78,7 +78,7 @@
       @include('6gallery')
       @include('7testimonial')
       @include('8ourstudent')
-      @include('9ourpartner')
+    
       @include('10calltoaction')
   </main>
 

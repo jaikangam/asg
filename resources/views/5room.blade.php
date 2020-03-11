@@ -1,4 +1,4 @@
-<section class="section">
+<section class="section" id="roomplan">
   <div class="container">
     <div class="row justify-content-center">
       <div class="col-lg-8 text-center">
@@ -98,7 +98,7 @@
     </div>
     <div class="modal fade" id="modal-notification" tabindex="-1" role="dialog" aria-labelledby="modal-notification" aria-hidden="true">
         <div class="modal-dialog modal-danger modal-dialog-centered modal-md" role="document">
-            <div class="modal-content bg-gradient-danger">
+            <div class="modal-content bg-gradient-warning">
     
                 <div class="modal-header">
                     <h6 class="modal-title" id="modal-title-notification">Your attention is required</h6>

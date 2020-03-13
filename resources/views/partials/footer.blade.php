@@ -21,9 +21,6 @@
       <!-- Third Column -->
       <div class="col-md-3 col-sm-3">
         <div class="text-right">
-          <a target="_blank" href="" class="btn btn-neutral btn-icon-only btn-twitter btn-round btn-lg" data-toggle="tooltip" data-original-title="Follow us">
-            <i class="fa fa-twitter"></i>
-          </a>
           <a target="_blank" href="" class="btn btn-neutral btn-icon-only btn-facebook btn-round btn-lg" data-toggle="tooltip" data-original-title="Like us">
             <i class="fa fa-facebook-square"></i>
           </a>

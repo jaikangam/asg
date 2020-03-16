@@ -98,29 +98,70 @@
     </div>
     <div class="modal fade" id="modal-notification" tabindex="-1" role="dialog" aria-labelledby="modal-notification" aria-hidden="true">
         <div class="modal-dialog modal-danger modal-dialog-centered modal-md" role="document">
-            <div class="modal-content bg-gradient-warning">
+            <div class="modal-content bg-gradient-primary">
     
                 <div class="modal-header">
-                    <h6 class="modal-title" id="modal-title-notification">Your attention is required</h6>
+             
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                         <span aria-hidden="true">×</span>
                     </button>
                 </div>
     
                 <div class="modal-body">
-    
-                    <div class="py-3 text-center">
-                        <i class="ni ni-bell-55 ni-3x"></i>
-                        <h4 class="heading mt-4">You should read this!</h4>
-                        <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+                
+                <div class="text-center text-muted mb-4">
+                  <h6 class="text-white"> Register for Visit</h6>
+                </div>
+                <form role="form">
+                  <div class="form-group">
+                    <div class="input-group input-group-alternative mb-3">
+                      <div class="input-group-prepend">
+                        <span class="input-group-text"><i class="ni ni-hat-3"></i></span>
+                      </div>
+                      <input class="form-control" placeholder="Name" type="text">
                     </div>
+                  </div>
+                  <div class="form-group">
+                    <div class="input-group input-group-alternative mb-3">
+                      <div class="input-group-prepend">
+                        <span class="input-group-text"><i class="ni ni-email-83"></i></span>
+                      </div>
+                      <input class="form-control" placeholder="Email" type="email">
+                    </div>
+                  </div>
+                  <div class="form-group focused">
+                    <div class="input-group input-group-alternative">
+                      <div class="input-group-prepend">
+                        <span class="input-group-text"><i class="ni ni-lock-circle-open"></i></span>
+                      </div>
+                      <input class="form-control" placeholder="Password" type="password">
+                    </div>
+                  </div>
+                 
+                  <div class="row my-4">
+                    <div class="col-12">
+                      <div class="custom-control custom-control-alternative custom-checkbox">
+                        <input class="custom-control-input" id="customCheckRegister" type="checkbox">
+                        <label class="custom-control-label" for="customCheckRegister"><span>I agree with the <a href="#">Privacy Policy</a></span></label>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="text-center">
+                    <button type="button" class="btn btn-white ">Book Now </button>
+                  </div>
+                </form>
+
+                <div class="text-center text-muted mb-4">
+                  <h6 class="text-white"> Or </h6>
+                </div>
+
+                <div class="text-center text-muted mb-4">
+                  <a href="tel:7005838409" class="btn btn-white" > Click to Call</a>
+                </div>
+                
     
                 </div>
-    
-                <div class="modal-footer">
-                    <button type="button" class="btn btn-white">Ok, Got it</button>
-                    <button type="button" class="btn btn-link text-white ml-auto" data-dismiss="modal">Close</button>
-                </div>
+  
     
             </div>
         </div>

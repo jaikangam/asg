@@ -42,7 +42,7 @@
             </a>
           </li>
           <li class="nav-item">
-            <a href="/contact-us" class="nav-link">
+            <a href="#testimonial-area" class="nav-link">
               <span class="nav-link-inner--text">Testimonials  </span>
             </a>
           </li>

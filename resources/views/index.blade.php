@@ -35,7 +35,7 @@
       <div class="container  mt--150" >
         <div class="row text-center">
          
-          <div class="col-md-4 col-lg-4">
+          <div class="col-md-4 col-lg-4 padding-mobile">
             <div class="card card-lift--hover card-margin  py-3 px-4">
               <div class="hero-card"> 
                 <img src="{{ asset('frontend/img/icons/money.png')}}" width="80" alt="promo" class="img-fluid">
@@ -45,7 +45,7 @@
             </div>
           </div>
 
-          <div class="col-md-4 col-lg-4">
+          <div class="col-md-4 col-lg-4 padding-mobile">
             <div class="card card-lift--hover card-margin  py-3 px-4">
               <div class="hero-card"> 
                 <img src="{{ asset('frontend/img/icons/dish.png')}}" width="80" alt="promo" class="img-fluid">
@@ -56,7 +56,7 @@
           </div>
 
 
-          <div class="col-md-4 col-lg-4">
+          <div class="col-md-4 col-lg-4 padding-mobile">
             <div class="card card-lift--hover card-margin  py-3 px-4">
               <div class="hero-card"> 
                 <img src="{{ asset('frontend/img/icons/mentor.png')}}" width="80" alt="promo" class="img-fluid">

@@ -14,16 +14,16 @@
 
             <div class="client-single active position-1" data-position="position-1">
                 <div class="client-img">
-                    <img src="https://cdn.dribbble.com/users/2132253/avatars/small/1799e2c9badff08058551384763e284c.jpg?1568268299" alt="">
+                <img src="{{asset('frontend/img/testimonial/lankhonchun1.jpg')}}" class="img-fluid" alt="lankhonchun">
                 </div>
                 <div class="client-comment">
-                    <p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
-                    <span><i class="fa fa-quote-left"></i></span>
+                    <p class="lead">Staying in ASG Hostel gives me homely environment. As a student I would suggest staying in ASG Hostel is the best 
+place for student especially preparing for civil services exam, Banking exam, SSC exam and also for college going students. The Best part of staying 
+staying in ASG Hostel is that you get all basic facilities like Free WIFI, Library, Transportation facilities for student etc. </p>
+ 
+                    <h6> - Lankhonchun Golmei</h6>
                 </div>
-                <div class="client-info">
-                    <h3>Design By</h3>
-                    <p><a href="https://manjaygupta.com">No 1</a></p>
-                </div>
+    
             </div>
 
 
@@ -34,16 +34,15 @@
 
 
             <div class="client-single inactive position-2" data-position="position-2">
-                <div class="client-img">
-                    <img src="https://cdn.dribbble.com/users/2132253/avatars/small/1799e2c9badff08058551384763e284c.jpg?1568268299" alt="">
+            <div class="client-img">
+                <img src="{{asset('frontend/img/testimonial/loveson.jpg')}}" class="img-fluid" alt="lankhonchun">
                 </div>
                 <div class="client-comment">
-                    <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </h3>
-                    <span><i class="fa fa-quote-left"></i></span>
-                </div>
-                <div class="client-info">
-                    <h3>Design By</h3>
-                    <p><a href="https://manjaygupta.com">Manjay Gupta</a></p>
+                    <p class="lead">Staying in ASG Hostel gives me homely environment. As a student I would suggest staying in ASG Hostel is the best 
+place for student especially preparing for civil services exam, Banking exam, SSC exam and also for college going students. The Best part of staying 
+staying in ASG Hostel is that you get all basic facilities like Free WIFI, Library, Transportation facilities for student etc. </p>
+ 
+                    <h6> - Lankhonchun Golmei</h6>
                 </div>
             </div>
 
@@ -58,16 +57,15 @@
 
 
             <div class="client-single inactive position-3" data-position="position-3">
-                <div class="client-img">
-                    <img src="https://cdn.dribbble.com/users/2132253/avatars/small/1799e2c9badff08058551384763e284c.jpg?1568268299" alt="">
+              <div class="client-img">
+                <img src="{{asset('frontend/img/testimonial/unknown.jpg')}}" class="img-fluid" alt="lankhonchun">
                 </div>
                 <div class="client-comment">
-                    <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </h3>
-                    <span><i class="fa fa-quote-left"></i></span>
-                </div>
-                <div class="client-info">
-                    <h3>Design By</h3>
-                    <p><a href="https://manjaygupta.com">Manjay Gupta</a></p>
+                    <p class="lead">Staying in ASG Hostel gives me homely environment. As a student I would suggest staying in ASG Hostel is the best 
+place for student especially preparing for civil services exam, Banking exam, SSC exam and also for college going students. The Best part of staying 
+staying in ASG Hostel is that you get all basic facilities like Free WIFI, Library, Transportation facilities for student etc. </p>
+ 
+                    <h6> - Lankhonchun Golmei</h6>
                 </div>
             </div>
 
@@ -83,16 +81,15 @@
 
 
             <div class="client-single inactive position-4" data-position="position-4">
-                <div class="client-img">
-                    <img src="https://media.licdn.com/dms/image/C4E03AQFbvYtvSeyw-g/profile-displayphoto-shrink_100_100/0?e=1574294400&v=beta&t=49_VH9HRvqymP-VLETlFhFt4idmunZPhIQfALwaTrmA" alt="">
+             <div class="client-img">
+                <img src="{{asset('frontend/img/testimonial/third.jpg')}}" class="img-fluid" alt="lankhonchun">
                 </div>
                 <div class="client-comment">
-                    <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </h3>
-                    <span><i class="fa fa-quote-left"></i></span>
-                </div>
-                <div class="client-info">
-                    <h3>Design By</h3>
-                    <p><a href="https://manjaygupta.com">Manjay Gupta</a></p>
+                    <p class="lead">Staying in ASG Hostel gives me homely environment. As a student I would suggest staying in ASG Hostel is the best 
+place for student especially preparing for civil services exam, Banking exam, SSC exam and also for college going students. The Best part of staying 
+staying in ASG Hostel is that you get all basic facilities like Free WIFI, Library, Transportation facilities for student etc. </p>
+ 
+                    <h6> - Lankhonchun Golmei</h6>
                 </div>
             </div>
 
@@ -104,16 +101,15 @@
 
 
             <div class="client-single inactive position-5" data-position="position-5">
-                <div class="client-img">
-                    <img src="https://cdn.dribbble.com/users/2132253/avatars/small/1799e2c9badff08058551384763e284c.jpg?1568268299" alt="">
+            <div class="client-img">
+                <img src="{{asset('frontend/img/testimonial/girl.jpg')}}" class="img-fluid" alt="lankhonchun">
                 </div>
                 <div class="client-comment">
-                    <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </h3>
-                    <span><i class="fa fa-quote-left"></i></span>
-                </div>
-                <div class="client-info">
-                    <h3>Design By</h3>
-                    <p><a href="https://manjaygupta.com">Manjay Gupta</a></p>
+                    <p class="lead">Staying in ASG Hostel gives me homely environment. As a student I would suggest staying in ASG Hostel is the best 
+place for student especially preparing for civil services exam, Banking exam, SSC exam and also for college going students. The Best part of staying 
+staying in ASG Hostel is that you get all basic facilities like Free WIFI, Library, Transportation facilities for student etc. </p>
+ 
+                    <h6> - Lankhonchun Golmei</h6>
                 </div>
             </div>
 
@@ -124,16 +120,15 @@
 
 
             <div class="client-single inactive position-6" data-position="position-6">
-                <div class="client-img">
-                    <img src="https://cdn.dribbble.com/users/2132253/avatars/small/1799e2c9badff08058551384763e284c.jpg?1568268299" alt="">
+            <div class="client-img">
+                <img src="{{asset('frontend/img/testimonial/lankhonchun1.jpg')}}" class="img-fluid" alt="lankhonchun">
                 </div>
                 <div class="client-comment">
-                    <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </h3>
-                    <span><i class="fa fa-quote-left"></i></span>
-                </div>
-                <div class="client-info">
-                    <h3>Design By</h3>
-                    <p><a href="https://manjaygupta.com">Manjay Gupta</a></p>
+                    <p class="lead">Staying in ASG Hostel gives me homely environment. As a student I would suggest staying in ASG Hostel is the best 
+place for student especially preparing for civil services exam, Banking exam, SSC exam and also for college going students. The Best part of staying 
+staying in ASG Hostel is that you get all basic facilities like Free WIFI, Library, Transportation facilities for student etc. </p>
+ 
+                    <h6> - Lankhonchun Golmei</h6>
                 </div>
             </div>
 
@@ -142,16 +137,15 @@
 
 
             <div class="client-single inactive position-7" data-position="position-7">
-                <div class="client-img">
-                    <img src="https://cdn.dribbble.com/users/2132253/avatars/small/1799e2c9badff08058551384763e284c.jpg?1568268299" width="40px" alt="">
+            <div class="client-img">
+                <img src="{{asset('frontend/img/testimonial/lankhonchun1.jpg')}}" class="img-fluid" alt="lankhonchun">
                 </div>
                 <div class="client-comment">
-                    <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </h3>
-                    <span><i class="fa fa-quote-left"></i></span>
-                </div>
-                <div class="client-info">
-                    <h3>Design By</h3>
-                    <p><a href="https://manjaygupta.com">Manjay Gupta</a></p>
+                    <p class="lead">Staying in ASG Hostel gives me homely environment. As a student I would suggest staying in ASG Hostel is the best 
+place for student especially preparing for civil services exam, Banking exam, SSC exam and also for college going students. The Best part of staying 
+staying in ASG Hostel is that you get all basic facilities like Free WIFI, Library, Transportation facilities for student etc. </p>
+ 
+                    <h6> - Lankhonchun Golmei</h6>
                 </div>
             </div>
 

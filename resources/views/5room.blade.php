@@ -98,10 +98,10 @@
     </div>
     <div class="modal fade" id="modal-notification" tabindex="-1" role="dialog" aria-labelledby="modal-notification" aria-hidden="true">
         <div class="modal-dialog modal-danger modal-dialog-centered modal-md" role="document">
-            <div class="modal-content bg-gradient-primary">
+            <div class="modal-content bg-gradient-warning">
     
                 <div class="modal-header">
-             
+                
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                         <span aria-hidden="true">×</span>
                     </button>
@@ -118,7 +118,7 @@
                       <div class="input-group-prepend">
                         <span class="input-group-text"><i class="ni ni-hat-3"></i></span>
                       </div>
-                      <input class="form-control" placeholder="Name" type="text">
+                      <input class="form-control" placeholder="Name" type="text" required>
                     </div>
                   </div>
                   <div class="form-group">
@@ -126,7 +126,7 @@
                       <div class="input-group-prepend">
                         <span class="input-group-text"><i class="ni ni-email-83"></i></span>
                       </div>
-                      <input class="form-control" placeholder="Email" type="email">
+                      <input class="form-control" placeholder="Email" type="email" required>
                     </div>
                   </div>
                   <div class="form-group focused">
@@ -134,7 +134,7 @@
                       <div class="input-group-prepend">
                         <span class="input-group-text"><i class="ni ni-lock-circle-open"></i></span>
                       </div>
-                      <input class="form-control" placeholder="Password" type="password">
+                      <input class="form-control" placeholder="Contact No" type="text" required>
                     </div>
                   </div>
                  
@@ -151,12 +151,12 @@
                   </div>
                 </form>
 
-                <div class="text-center text-muted mb-4">
+                <div class="text-center ">
                   <h6 class="text-white"> Or </h6>
                 </div>
 
-                <div class="text-center text-muted mb-4">
-                  <a href="tel:7005838409" class="btn btn-white" > Click to Call</a>
+                <div class="text-center  mb-4">
+                  <a href="tel:7005838409" class="btn btn-white" > Call Us : 7005838409 </a>
                 </div>
                 
     

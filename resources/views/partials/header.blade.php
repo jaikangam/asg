@@ -48,7 +48,7 @@
           </li>
           
           <li class="nav-item  d-lg-block ml-lg-4">
-            <a href="https://www.creative-tim.com/product/argon-design-system" target="_blank" class="btn btn-neutral btn-icon">
+            <a href="/contact-us" target="_blank" class="btn btn-neutral btn-icon">
               <span class="nav-link-inner--text">Contact Us</span>
             </a>
           </li>

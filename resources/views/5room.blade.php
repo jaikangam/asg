@@ -15,7 +15,7 @@
             <div class="hosteroom card  shadow border-0">
               <div class="card-body py-4">
                 <div class="mb-1">
-                  <img src="https://www.chrmp.com/frontend/images/lastdiv/2.png" alt="" class=" img-fluid img-center">
+                  <img src="{{asset('frontend/img/gallery/promo-1.png')}}" alt="" class="img-fluid img-center">
                 </div>
                 <h5 class="text-primary text-center ">Single Room </h5>
                 <ul class="list ">
@@ -98,7 +98,7 @@
     </div>
     <div class="modal fade" id="modal-notification" tabindex="-1" role="dialog" aria-labelledby="modal-notification" aria-hidden="true">
         <div class="modal-dialog modal-danger modal-dialog-centered modal-md" role="document">
-            <div class="modal-content bg-gradient-warning">
+            <div class="modal-content bg-gradient-default">
     
                 <div class="modal-header">
                 

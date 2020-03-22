@@ -8,6 +8,18 @@
   color: #F68523;
 }
 
+.btn-brandcolor {
+  color: #fff;
+  background-color: #462A73;
+  box-shadow: 0 4px 6px rgba(50, 50, 93, .11), 0 1px 3px rgba(0, 0, 0, .08);
+}
+
+.btn-brandcolor:hover {
+  color: #fff;
+  background-color: #462A73;
+  box-shadow: 0 4px 6px rgba(50, 50, 93, .11), 0 1px 3px rgba(0, 0, 0, .08);
+}
+
 #hero-banner{
   background:url('/frontend/images/banner.jpg');
   background-size:cover;
@@ -543,8 +555,8 @@
 /* Hostel Room */
 
 .hosteroom img{
-  width: 120px;
-  height: 120px;
+  width: 150px;
+  height: 100px;
 }
 
 .facilities img{

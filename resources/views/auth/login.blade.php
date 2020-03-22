@@ -106,7 +106,9 @@
 
                     <!-- Footer -->
                     <div class="footer text-muted text-center">
-                         Copyright &copy; 2015 - <?php echo  date("Y");  ?>. <a href="/"> ASG Hostel | All Rights Reserved, </a> Made with love by <a href="#" target="_blank"> Khamlou InfoTech </a>
+                         Copyright &copy; 2015 - <?php echo  date("Y");  ?>. ASG Hostel | All Rights Reserved
+                         <br>
+                         Made with love by <a href="#" target="_blank"> Khamlou InfoTech </a>
                     </div>
                     <!-- /footer -->
 

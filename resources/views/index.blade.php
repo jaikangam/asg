@@ -77,8 +77,7 @@
       @include('5room')
       @include('6gallery')
       @include('7testimonial')
-      @include('8ourstudent')
-    
+      
       @include('10calltoaction')
   </main>
 

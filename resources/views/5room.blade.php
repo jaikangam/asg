@@ -13,11 +13,11 @@
          
           <div class="col-lg-4 col-md-4 col-sm-6">
             <div class="hosteroom card  shadow border-0">
-              <div class="card-body py-4">
+              <div class="card-body py-5">
                 <div class="mb-1">
-                  <img src="{{asset('frontend/img/gallery/promo-1.png')}}" alt="" class="img-fluid img-center">
+                  <img src="{{asset('frontend/img/room/single.png')}}" alt="" class="img-fluid img-center">
                 </div>
-                <h5 class="text-primary text-center ">Single Room </h5>
+                <h5 class="brand-color text-center ">Single Room </h5>
                 <ul class="list ">
                   <li class="cardList"> <i class="fa fa-check cardIcon"></i> Cras justo odio</li>
                   <li class="cardList"> <i class="fa fa-check cardIcon"></i> Dapibus ac facilisis in</li>
@@ -25,13 +25,9 @@
                   <li class="cardList"><i class="fa fa-check cardIcon"></i> Porta ac consectetur ac</li>
                   <li class="cardList"><i class="fa fa-check cardIcon"></i> Vestibulum at eros</li>
                 </ul>
+                
                 <div class="text-center">
-                  <span class="badge badge-pill badge-primary">business</span>
-                  <span class="badge badge-pill badge-primary">vision</span>
-                  <span class="badge badge-pill badge-primary">primary</span>
-                </div>
-                <div class="text-center">
-                  <a href="#" class="btn btn-primary mt-4 ">Book Now</a>
+                  <a href="#" class="btn btn-brandcolor mt-4 ">Book Now</a>
                 </div>
                 
               </div>
@@ -40,11 +36,11 @@
          
            <div class="col-lg-4 col-md-4 col-sm-6">
             <div class="hosteroom card  shadow border-0">
-              <div class="card-body py-4">
+              <div class="card-body py-5">
                 <div class="mb-1">
-                 <img src="https://www.chrmp.com/frontend/images/lastdiv/2.png" alt="" class=" img-fluid img-center">
+                 <img src="{{asset('frontend/img/room/double.png')}}" alt="Double Room" class=" img-fluid img-center">
                 </div>
-                <h5 class="text-primary text-center ">Double Room </h5>
+                <h5 class="brand-color text-center ">Double Room </h5>
                 <ul class="list ">
                   <li class="cardList"> <i class="fa fa-check cardIcon"></i> Cras justo odio</li>
                   <li class="cardList"> <i class="fa fa-check cardIcon"></i> Dapibus ac facilisis in</li>
@@ -52,13 +48,9 @@
                   <li class="cardList"><i class="fa fa-check cardIcon"></i> Porta ac consectetur ac</li>
                   <li class="cardList"><i class="fa fa-check cardIcon"></i> Vestibulum at eros</li>
                 </ul>
+                
                 <div class="text-center">
-                  <span class="badge badge-pill badge-primary">business</span>
-                  <span class="badge badge-pill badge-primary">vision</span>
-                  <span class="badge badge-pill badge-primary">success</span>
-                </div>
-                <div class="text-center">
-                  <a href="#" class="btn btn-primary mt-4 " data-toggle="modal" data-target="#modal-notification" >Book Now</a>
+                  <a href="#" class="btn btn-brandcolor mt-4 " data-toggle="modal" data-target="#modal-notification" >Book Now</a>
                   
                 </div>
                 
@@ -68,11 +60,11 @@
          
            <div class="col-lg-4 col-md-4 col-sm-6">
             <div class="hosteroom card  shadow border-0">
-              <div class="card-body py-4">
+              <div class="card-body py-5">
                 <div class="mb-1">
-                 <img src="https://www.chrmp.com/frontend/images/lastdiv/2.png" alt="" class=" img-fluid img-center">
+                 <img src="" alt="" class=" img-fluid img-center">
                 </div>
-                <h5 class="text-primary text-center ">Premium Room </h5>
+                <h5 class="brand-color text-center ">Premium Room </h5>
                 <ul class="list ">
                   <li class="cardList"> <i class="fa fa-check cardIcon"></i> Cras justo odio</li>
                   <li class="cardList"> <i class="fa fa-check cardIcon"></i> Dapibus ac facilisis in</li>
@@ -80,13 +72,9 @@
                   <li class="cardList"><i class="fa fa-check cardIcon"></i> Porta ac consectetur ac</li>
                   <li class="cardList"><i class="fa fa-check cardIcon"></i> Vestibulum at eros</li>
                 </ul>
+               
                 <div class="text-center">
-                  <span class="badge badge-pill badge-primary">business</span>
-                  <span class="badge badge-pill badge-primary">vision</span>
-                  <span class="badge badge-pill badge-primary">success</span>
-                </div>
-                <div class="text-center">
-                  <a href="#" class="btn btn-primary mt-4 ">Book Now</a>
+                  <a href="#" class="btn btn-brandcolor mt-4 ">Book Now</a>
                 </div>
                 
               </div>
@@ -98,7 +86,7 @@
     </div>
     <div class="modal fade" id="modal-notification" tabindex="-1" role="dialog" aria-labelledby="modal-notification" aria-hidden="true">
         <div class="modal-dialog modal-danger modal-dialog-centered modal-md" role="document">
-            <div class="modal-content bg-gradient-default">
+            <div class="modal-content bg-gradient-warning">
     
                 <div class="modal-header">
                 
